@@ -1,0 +1,11 @@
+{
+    "AWSEBDockerrunVersion":"1",
+    "Image":{
+        "Name":"agilitydockerhub/pokedex-angular-app:1"
+    },
+    "Ports":[
+        {
+            "ContainerPort":"4200"
+        }
+    ]
+}

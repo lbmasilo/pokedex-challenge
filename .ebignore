@@ -1,0 +1,17 @@
+dist/
+node_modules/
+src/
+.browserlistic
+.dockerignore
+.editorconfig
+.gitignore
+angular.json
+Dockerfile
+karma.conf.js
+Markdown
+package-lock.json
+package.json
+ReadMe.md
+tsconfig.app.json
+tsconfig.json
+tsconfig.spec.json
