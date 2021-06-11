@@ -6,7 +6,8 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "aws-deploy":"aws s3 sync dist/pokemon-profiling-app/ s3://pokedex-angular-app-bucket"
   },
   "private": true,
   "dependencies": {
